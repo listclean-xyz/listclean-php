@@ -1,0 +1,14 @@
+{
+    "name": "listclean/listclean-php",
+    "description": "Beginner friendly PHP SDK for the Listclean API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Listclean\\": "src/Listclean/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
